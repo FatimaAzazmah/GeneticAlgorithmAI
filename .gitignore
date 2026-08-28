@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / editor settings
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Generated run artifacts (kept out of version control).
+# The aggregate experiment summaries and plots in results/ ARE committed as
+# example output; the ephemeral, timestamped per-run dumps below are not.
+convergence_data.csv
+results/data/
+results/logs/
+results/plots/
+results/pop_size_*_run_*.csv

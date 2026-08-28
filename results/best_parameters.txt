@@ -1,0 +1,6 @@
+Best Parameters from Experiments:
+========================================
+Population Size: 500
+Mutation Rate: 0.001
+Crossover Rate: 0.9
+Elitism Count: 2 (fixed)
