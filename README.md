@@ -109,7 +109,7 @@ GeneticAlgorithmAI/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/GeneticAlgorithmAI.git
+git clone https://github.com/FatimaAzazmah/GeneticAlgorithmAI.git
 cd GeneticAlgorithmAI
 
 # 2. (Recommended) create and activate a virtual environment
